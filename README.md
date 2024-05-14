@@ -16,4 +16,4 @@ Configure the iPad to erase data after 10 failed passcode attempts.
 ![Screenshot 2024-05-14 at 3 17 10 PM](https://github.com/SCP-714/Secure-a-Mobile-Device/assets/113054208/e7ce7ec9-16a0-4684-a4fa-ff7d4e274480)
 
 ### Step 3: Make desired changes 
-![Screenshot 2024-05-14 at 3 16 16 PM](https://github.com/SCP-714/Secure-a-Mobile-Device/assets/113054208/017b2d1e-4668-4fea-a20e-400e0f03ba63)
+![Screenshot 2024-05-14 at 3 18 03 PM](https://github.com/SCP-714/Secure-a-Mobile-Device/assets/113054208/b2779e0b-898a-4a4b-bdff-55a065ab721e)
